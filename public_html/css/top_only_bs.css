@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*トップページ用ヘッダ*/
+.pageheader .box_holder {overflow: hidden;}
+
+#sitetitle {font-weight:bold;color:#f00;width:100%;float: none;margin-left:1rem;margin-bottom: 0;}
+#sitetitle .small {color:#000;font-size: 2rem ;}
+
+#searcher_h {float: none;margin:.4rem 0 0 2rem;}
+#searcher_h .first {width: 14.8rem;}
+#sitedesc {margin-left: 1rem;font-weight:normal;}
+#sitedesc strong {font-weight: normal;}
+
+@media  (min-width:768px) {
+#sitetitle {width:45%;float: left;}
+#searcher_h {float: right;margin:2.4rem 2rem 0 0;}
+}
+
+/*ニュース領域*/
+.news_area {border:#bbbbbb .3rem inset;padding: 0.6rem 0;margin-bottom:2rem;height:10.5rem;overflow: hidden;}
+.news_area div {padding: 0 1.2rem;height:8.5rem;overflow: auto;}
+.news_area table {width: 100%;}
+.news_area table tr {border-bottom:#bbbbbb 0.1rem dashed;}
+.news_area table tr th,.news_area table tr td { padding: 0.4rem;vertical-align:top;vertical-align:baseline;}
+.news_area table tr th {width:12.5%;text-align:left;font-weight: normal;}
+.news_area table tr td {}
+
+/*ブログ表示領域*/
+.blog_area {margin: 1rem 0;border:#bbbbbb .3rem inset;padding: 0.6rem 0;height:10.5rem;overflow:hidden;}
+.blog_area div {padding: 0px 1.2rem;height:8.5rem;overflow: auto;}
+.blog_area ul {width:100%; list-style: none;padding-left:0;}
+.blog_area ul li {border-bottom:#bbbbbb 0.1rem dashed;padding: 0.4rem;}

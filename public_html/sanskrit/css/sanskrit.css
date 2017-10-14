@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+table.show {border-width:2px; border-style:solid; border-color:#000;}
+table.show th, table.show td {border-width:1px; border-style:solid; border-color:#000; padding:3px 1px;}
+
+.word1 {
+	padding: 0px 10px 10px 10px;
+	margin-top: 15px;
+	border: 1px solid #333;
+}
+
+ul.ul_dl3 {zoom:1;}
+ul.ul_dl3:after {content:'.'; display:block; clear:both; font-size:0; height:0px; visibility:hidden;}
+ul.ul_dl3 li {width:210px;float:left;display:inline;padding:0px 0px 12px 12px;}
+ul.ul_dl3 li dl {}
+ul.ul_dl3 li dl dt {font-weight:bold;}
+ul.ul_dl3 li dl dd {padding-top:6px;}
+ul.ul_dl3 li dl dd img {}
+
+ul#pron li {height:290px;overflow:visible;}

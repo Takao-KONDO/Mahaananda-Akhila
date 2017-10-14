@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+#box_s2 {background-color:#CEB; padding:10px;}
+
+#table_s2 {background-color: #333333;; border-width:2px; border-color:#333; border-style:solid; border-collapse:separate; margin-top:10px;}
+
+#table_s2 th {background-color:#DFD; font-weight:bold; text-align:center; padding:3px;
+border-color:#333; border-style:solid;}
+
+#table_s2 td {background-color:#FFF; text-align:center; padding:3px; border-color:#333; border-style:solid;}
+
+#table_s3 {background-color:#333333; border-width:2px; border-color:#333; border-style:solid; border-collapse:separate; margin-top:10px;}
+
+#table_s3 th {background-color:#DFD; font-weight:bold; text-align:left; padding:3px;
+ border-color:#333; border-style:solid;}
+
+#table_s3 td {background-color:#FFF; text-align:left; padding:3px; border-color:#333; border-style:solid;}
+
+.table_s4 {background-color:#333333; border-width:2px; border-color:#333; border-style:solid; border-collapse:separate; margin-top:10px; border-spacing:1px;}
+
+.table_s4 th {background-color:#DFD; font-weight:bold; text-align:left; padding:3px;}
+
+.table_s4 td {background-color:#FFF; text-align:left; padding:3px; }
+
+.hword {font-weight:bold; font-size:110%;}
+.hwruby {font-weight:normal; font-size:90%;}
+
+.table_s5 {background-color: #333333; border: #333333 solid 2px; border-collapse:separate; margin-top:10px;}
+
+.table_s5 th {background-color:#DFD; text-align:center; padding:3px; border-color:#333; border-style:solid;}
+
+.table_s5 td {background-color:#FFF; text-align:center; vertical-align:top; padding:3px; border-color:#333; border-style:solid;}

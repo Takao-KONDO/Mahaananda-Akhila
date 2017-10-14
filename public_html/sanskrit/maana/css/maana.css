@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+blockquote.bq00 {
+	border: #cfc solid 2px; border-radius: 8px;
+	background-color: #cfc;
+	padding: 10px 20px;
+	margin-top: 15px;
+}
+blockquote.bq00 cite {
+	display:block; margin-top:10px; text-align: right;
+}
+blockquote.bq00 cite:before {
+	content: '( ';
+}
+blockquote.bq00 cite:after {
+	content: ' )';
+}
+blockquote.bq00 ul {zoom:1}
+blockquote.bq00 ul::after {content:'.'; display:block; clear:both; font-size:0; height:0px; visibility:hidden;}
+blockquote.bq00 ul li.hlike {list-style-type: disc !important; list-style-position: inside; float:left; padding-left: 0.5em;padding-right:2em;}
+
+blockquote.bq01 {
+	border: #cfc solid 2px; border-radius: 8px;
+	background-color: #efd;
+	padding: 10px 20px;
+	margin-top: 15px;
+}
+blockquote.bq01 cite {
+	display:block; margin-top:10px; text-align: right;
+}
+blockquote.bq01 cite:before {
+	content: '( ';
+}
+blockquote.bq01 cite:after {
+	content: ' )';
+}
+
+blockquote.bq02 {
+	border: #fcc solid 2px; border-radius: 8px;
+	background-color: #fee;
+	padding: 10px 20px;
+	margin-top: 15px;
+}
+blockquote.bq02 cite {
+	display:block; margin-top:10px; text-align: right;
+}
+blockquote.bq02 cite:before {
+	content: '( ';
+}
+blockquote.bq02 cite:after {
+	content: ' )';
+}
+
+blockquote.bq03 {
+	border: #ee7 solid 2px;
+	background-color: #ffb;
+	padding: 10px 20px;
+	margin-top: 15px;
+}
+blockquote.bq03 cite {
+	display:block; margin-top:10px; text-align: right;
+}
+blockquote.bq03 cite:before {
+	content: '( ';
+}
+blockquote.bq03 cite:after {
+	content: ' )';
+}
+
+b {
+	/* font-weight: 600; */
+	font-weight: bold;
+}
+
+i {
+	font-style:italic;
+}
+
+b i, i b {
+	/* font-weight: 600; */
+	font-weight: bold;
+	font-style:italic;
+}
+
+em.em01{
+	background-color: #ffb;
+}

@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+#main #scales_modes {
+}
+
+#main #scales_modes table {
+	border:#333333 2px solid;
+}
+
+#main #scales_modes table tr {
+}
+
+#main #scales_modes table tr th {
+}
+
+#main #scales_modes table tr th p {
+	background-color:#6FC;
+	padding:4px 2px;
+	font-weight:bold;
+	text-indent:0em;
+	display:block;
+}
+
+#main #scales_modes table tr th p.prop {
+	background-color:#F9F;
+}
+
+#main #scales_modes table tr td {
+}
+
+#main #scales_modes table tr td p {
+	padding:4px 2px;
+	text-align:center;
+	text-indent:0em;
+}
+
+#main #scales_modes table tr td.t_b_r {
+	border-top:#333333 1px solid;
+	border-bottom:#333333 1px solid;
+	border-right:#333333 1px solid;
+}
+
+#main #scales_modes table tr td.t_b {
+	border-top:#333333 1px solid;
+	border-bottom:#333333 1px solid;
+}
+
+#main #scales_modes table tr td p.t {
+	border-top:#333333 1px solid;
+}
+
+#main #scales_modes table tr td.b_r, #main #scales_modes table tr td p.b_r {
+	border-bottom:#333333 1px solid;
+	border-right:#333333 1px solid;
+}
+
+#main #scales_modes table tr td.b {
+	border-bottom:#333333 1px solid;
+}
+
+
+#main #scales_modes table tr td.r, #main #scales_modes table tr th.r {
+	border-right:#333333 1px solid;
+}

@@ -1,0 +1,96 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.flex_sa_table{
+	background-color: #333333;
+	width:920px;
+	border: #333333 solid 2px;
+	border-collapse:separate;
+	margin-top:20px;
+}
+
+.flex_sa_table td {
+	border-style:solid;
+	background-color: #ffffff;
+	font-size: 0.8em;
+	vertical-align:middle;
+	text-align:left;
+}
+#main_table td, #main_table2 td {
+	font-size: 0.75em;
+	line-height: 1.65em;
+}
+.tdaliCenter td {
+	text-align:center;
+	padding-top:5px; padding-bottom:5px;
+}
+
+.flex_sa_table th {
+	border-style:solid;
+	background-color: #ffffff;
+	font-size: 0.8em;
+	vertical-align:middle;
+	text-align:left;
+}
+#main_table th, #main_table2 th {
+	line-height: 1.65em;
+}
+
+.flex_sa_table td.base {
+	background-color:#FF3333;
+	color:#FFFFFF;
+}
+.flex_sa_table th.base {
+	background-color:#FF3333;
+	color:#FFFFFF;
+}
+.flex_sa_table td.clstem {background-color:#66FF66;}
+.flex_sa_table td.clsvar {background-color:#FFFF77;}
+.flex_sa_table td.avestem {background-color:#AAFFFF;}
+.flex_sa_table td.quadr {background-color:#B9F;}
+
+.flex_sa_table th.clstem {background-color:#66FF66;}
+.flex_sa_table th.clsvar {background-color:#FFFF77;}
+.flex_sa_table th.avestem {background-color:#AAFFFF;}
+.flex_sa_table th.quadr {background-color:#B9F;}
+
+.wid500 {width:500px;margin-top:5px;}
+.wid660 {width:660px;margin-top:5px;}
+.wid435 {width:435px;margin-top:5px;}
+.wid300 {width:300px;margin-top:5px;}
+
+td.base {
+	background-color:#FF3333;
+	color:#FFFFFF;
+}
+th.base {
+	background-color:#FF3333;
+	color:#FFFFFF;
+}
+span.stem { color:#FF0000; font-size:110%; font-weight:bold;}
+
+td.clstem {background-color:#66FF66;}
+td.clsvar {background-color:#FFFF77;}
+td.avestem {background-color:#AAFFFF;}
+td.clblank {background-color:#BBBBBB;}
+td.clblank2 {background-color:#DDDDDD;}
+
+.clstem {background-color:#66FF66;}
+.clsvar {background-color:#FFFF77;}
+.avestem {background-color:#AAFFFF;}
+.clblank {background-color:#BBBBBB;}
+.clblank2 {background-color:#DDDDDD;}
+
+.flex_sa_table th.anga {text-align:center;}
+.flex_sa_table td.black {color:#FFFFFF; background-color:#000000;}
+.flex_sa_table th.black {color:#FFFFFF; background-color:#000000;}
+
+p.note {margin:20px 0px; font-size:80%;}
+p.expl {margin:20px 0px; font-size:95%;}
+
+table.useborder th, table.useborder td, {padding:2px;}
+table.useborder {
+border-collapse: separate;
+border-spacing: 1px;
+}

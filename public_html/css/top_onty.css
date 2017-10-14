@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* このファイルはサイトのトップのhtmlに読み込まれます。 */
+
+header {overflow: hidden;}
+#h1 {float:left; display:inline;}
+h1.small {
+font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+font-size:100%; font-weight:normal; text-decoration:none; font-style:normal; color:#000000; line-height:1.2em; }
+
+p.h2 {font-size:155%; font-weight:bold;border:2px solid #000000;border-left:8px solid #000000;padding:4px 6px 0px 6px;}
+h2.h3 {font-size:140%; font-weight:bold;}
+h3.h4 {font-size:125%; font-weight:bold;}
+
+div#searcher {width:340px; float:right; display:inline; margin-top:10px;}
+div#searcher form table td {vertical-align:middle;}
+#searcher form input.first {width:175px;vertical-align:middle;}
+#searcher form input.submit {width:155px; margin:0 0 0 5px; vertical-align:middle;}
+
+div#notation {width:830px; margin:20px auto; padding:15px; background-color:#FCF;
+border-color:#666; border-width:1px; border-style:solid;
+	}
+article {width:920px;}
+
+.topTable {
+    width:920px;
+    border: none;
+    border-collapse: collapse;
+}
+.topTable .topTableLeft {
+    width: 220px;
+}
+
+section#news_area {
+	border:#bbbbbb 3px inset;
+	padding: 12px 0px;
+	margin-bottom:20px;
+	height:72px;
+}
+
+section#news_area div {
+	padding: 0px 12px;
+	height:72px;
+	overflow: auto;
+}
+section#news_area table {
+	width:100%;
+}
+section#news_area table tr {
+	border-bottom:#bbbbbb 1px dashed;
+}
+section#news_area table tr th,
+section#news_area table tr td {
+	padding: 3px;
+}
+section#news_area table tr th {
+	width:12.5%;
+	text-align:left;
+}
+section#news_area table tr td {
+}
+
+section.blog_area {
+	margin: 10px 15px 10px;
+	border:#bbbbbb 3px inset;
+	padding: 12px 0px;
+	height:72px;
+}
+
+section.blog_area div {
+	padding: 0px 12px;
+	height:72px;
+	overflow: auto;
+}
+section.blog_area ul {
+	width:100%;
+}
+section.blog_area ul li {
+	border-bottom:#bbbbbb 1px dashed;
+	padding: 3px;
+}

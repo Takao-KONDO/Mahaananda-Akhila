@@ -1,0 +1,213 @@
+/* CSS Document */
+/* line 4, flex_sa.scss */
+.flex_sa_table {
+  background-color: #333333;
+  width: 920px;
+  border: #333333 solid 2px;
+  border-collapse: separate;
+  margin-top: 20px;
+}
+/* line 11, flex_sa.scss */
+.flex_sa_table td, .flex_sa_table th {
+  border-style: solid;
+  background-color: #ffffff;
+  font-size: 0.8em;
+  vertical-align: middle;
+  text-align: left;
+}
+/* line 19, flex_sa.scss */
+.flex_sa_table td.base, .flex_sa_table th.base {
+  background-color: #FF3333;
+  color: #FFFFFF;
+}
+
+/* line 25, flex_sa.scss */
+#main_table td, #main_table2 td {
+  font-size: 0.75em;
+  line-height: 1.65em;
+}
+
+/* line 29, flex_sa.scss */
+.tdaliCenter td {
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+/* line 34, flex_sa.scss */
+#main_table th, #main_table2 th {
+  line-height: 1.65em;
+}
+
+/* line 38, flex_sa.scss */
+.flex_sa_table td.clstem {
+  background-color: #66FF66;
+}
+
+/* line 39, flex_sa.scss */
+.flex_sa_table td.clsvar {
+  background-color: #FFFF77;
+}
+
+/* line 40, flex_sa.scss */
+.flex_sa_table td.avestem {
+  background-color: #AAFFFF;
+}
+
+/* line 41, flex_sa.scss */
+.flex_sa_table td.quadr {
+  background-color: #B9F;
+}
+
+/* line 43, flex_sa.scss */
+.flex_sa_table th.clstem {
+  background-color: #66FF66;
+}
+
+/* line 44, flex_sa.scss */
+.flex_sa_table th.clsvar {
+  background-color: #FFFF77;
+}
+
+/* line 45, flex_sa.scss */
+.flex_sa_table th.avestem {
+  background-color: #AAFFFF;
+}
+
+/* line 46, flex_sa.scss */
+.flex_sa_table th.quadr {
+  background-color: #B9F;
+}
+
+/* line 48, flex_sa.scss */
+.wid500 {
+  width: 500px;
+  margin-top: 5px;
+}
+
+/* line 49, flex_sa.scss */
+.wid660 {
+  width: 660px;
+  margin-top: 5px;
+}
+
+/* line 50, flex_sa.scss */
+.wid435 {
+  width: 435px;
+  margin-top: 5px;
+}
+
+/* line 51, flex_sa.scss */
+.wid300 {
+  width: 300px;
+  margin-top: 5px;
+}
+
+/* line 53, flex_sa.scss */
+td.base {
+  background-color: #FF3333;
+  color: #FFFFFF;
+}
+
+/* line 57, flex_sa.scss */
+th.base {
+  background-color: #FF3333;
+  color: #FFFFFF;
+}
+
+/* line 61, flex_sa.scss */
+span.stem {
+  color: #FF0000;
+  font-size: 110%;
+  font-weight: bold;
+}
+
+/* line 63, flex_sa.scss */
+td.clstem {
+  background-color: #66FF66;
+}
+
+/* line 64, flex_sa.scss */
+td.clsvar {
+  background-color: #FFFF77;
+}
+
+/* line 65, flex_sa.scss */
+td.avestem {
+  background-color: #AAFFFF;
+}
+
+/* line 66, flex_sa.scss */
+td.clblank {
+  background-color: #BBBBBB;
+}
+
+/* line 67, flex_sa.scss */
+td.clblank2 {
+  background-color: #DDDDDD;
+}
+
+/* line 69, flex_sa.scss */
+.clstem {
+  background-color: #66FF66;
+}
+
+/* line 70, flex_sa.scss */
+.clsvar {
+  background-color: #FFFF77;
+}
+
+/* line 71, flex_sa.scss */
+.avestem {
+  background-color: #AAFFFF;
+}
+
+/* line 72, flex_sa.scss */
+.clblank {
+  background-color: #BBBBBB;
+}
+
+/* line 73, flex_sa.scss */
+.clblank2 {
+  background-color: #DDDDDD;
+}
+
+/* line 75, flex_sa.scss */
+.flex_sa_table th.anga {
+  text-align: center;
+}
+
+/* line 76, flex_sa.scss */
+.flex_sa_table td.black {
+  color: #FFFFFF;
+  background-color: #000000;
+}
+
+/* line 77, flex_sa.scss */
+.flex_sa_table th.black {
+  color: #FFFFFF;
+  background-color: #000000;
+}
+
+/* line 79, flex_sa.scss */
+p.note {
+  margin: 20px 0px;
+  font-size: 80%;
+}
+
+/* line 80, flex_sa.scss */
+p.expl {
+  margin: 20px 0px;
+  font-size: 95%;
+}
+
+/* line 82, flex_sa.scss */
+table.useborder th, table.useborder td {
+  padding: 2px;
+}
+
+/* line 83, flex_sa.scss */
+table.useborder {
+  border-collapse: separate;
+  border-spacing: 1px;
+}

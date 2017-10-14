@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+
+header#event {
+	font-family:"ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+}
+header#event * {
+	font-family: inherit;
+}
+header#event h1 {
+}
+.smaller {
+	font-size: smaller;
+}
+
+article#prog {
+	background-color: #ffffff;
+	font-family:"ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	padding: 20px;
+	position:relative;
+}
+article#prog * {
+	font-family: inherit;
+}
+article#prog #pageh {
+	border-left : 12px solid #000000;
+	padding : 0px 0px 4px 12px;
+	width:896px
+}
+article#prog #pageh h2 {
+	display: inline;
+}
+article#prog #pageh h2 ruby {
+	font-weight: bold;
+}
+article#prog #pageh h3 {
+	display: inline;
+	padding-left: 20px;
+}
+article#prog #pageh h4 {
+	display: block;
+	margin-top: 6px;
+	font-size: 100%;
+}
+article#prog #pageh h4 span {
+	font-weight: bold;
+	border :2px solid #000000;
+	padding : 4px;
+}
+article#prog section#core {
+	position:relative;
+}
+article#prog section.block {
+	margin-top: 20px;
+	position: relative;
+}
+article#prog section.block h3 {
+	border-left: 8px solid #000000;
+	padding-left: 6px;
+}
+article#prog section.block ul.lifl {
+}
+article#prog section.block ul.lifl dl {
+	display:inline;
+}
+article#prog section.block ul.lifl dl dt,
+article#prog section.block ul.lifl dl dd {
+	float:left;
+}
+div#article section.block ul.lifl li {
+	
+}
+section#photo {
+	float:right;
+	width:520px;
+	display:inline;
+}
+
+aside.promo {margin:20px; border:1px solid #000000; border-left:4px solid #000000; padding: 15px;}
+aside.promo hgroup.promoh {border-left:6px solid #000000; padding-left: 10px;}
+aside.promo hgroup.promoh h4 {}
+aside.promo hgroup.promoh h2 {}
+aside.promo p {margin-top: 10px;}
+aside.promo p.author {text-align:right;}

@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+table#cons {
+	width:920px;
+	border:#333 solid 3px;
+	margin-top:20px;
+}
+
+table#cons td {
+	border:#333 solid 1px;
+	padding:3px 1px;
+}
+
+table#vowel {
+	width:550px;
+	border:#333 solid 3px;
+	margin-top:5px;
+}
+
+table#vowel td {
+	border:#333 solid 1px;
+	padding:3px;
+}

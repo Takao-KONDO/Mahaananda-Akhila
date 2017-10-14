@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+body#popup {}
+body#popup #wrapper {width:640px;margin:0px auto;}
+body#popup #wrapper #container {width:640px; background-image:none !important;  background-color:#FFF;margin-bottom:0;}
+body#popup #wrapper #container article {background-color:#FFF; width:580px; padding:30px;}
+body#popup #wrapper footer {width:640px;padding:10px 0px;}
+
+body#popup #wrapper #container article h3 {
+	border-bottom:#000 solid 2px;
+	padding:4px 2px 4px 10px;
+	border-left:#000 solid 8px;
+}
+	
+body#popup #wrapper #container article hr {
+	width:580px;
+}
+
+body#popup #wrapper #container article form {
+	margin-top:20px;
+	text-align:center;
+}
+
+body#popup #wrapper #container article form input:hover {
+	cursor:pointer;
+}

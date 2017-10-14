@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+#degree02_tab1 {
+	width:100%;
+	border:#111 solid 2px;
+}
+
+#degree02_tab1 tr {}
+#degree02_tab1 tr th, #degree02_tab1 tr td {border:#111 solid 1px; padding:3px 5px;}
+#degree02_tab1 tr th {background-color:#ff9;}
+#degree02_tab1 tr td { text-align:center; vertical-align:middle;}
