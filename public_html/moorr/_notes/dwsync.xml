@@ -14,4 +14,11 @@
 <file name="moorr.cgi" server="ftp.naadeszvara.namaste.jp//mahaananda/" local="130080060000000000" remote="130847973000000000" Dst="0" />
 <file name="moorr.js" server="ftp.naadeszvara.namaste.jp//mahaananda/" local="130079196000000000" remote="130847973000000000" Dst="0" />
 <file name="moorr2.js" server="ftp.naadeszvara.namaste.jp//mahaananda/" local="130079196000000000" remote="130847973000000000" Dst="0" />
+<file name="admin.cgi" server="www2s.biglobe.ne.jp//public_html/common/" local="130654620000000000" remote="131524478400000000" Dst="0" />
+<file name="data_basic.cgi" server="www2s.biglobe.ne.jp//public_html/common/" local="130654620000000000" remote="131524478400000000" Dst="0" />
+<file name="data_log.cgi" server="www2s.biglobe.ne.jp//public_html/common/" local="130654620000000000" remote="131524478400000000" Dst="0" />
+<file name="index.html" server="www2s.biglobe.ne.jp//public_html/common/" local="130654620000000000" remote="131524478400000000" Dst="0" />
+<file name="moorr.cgi" server="www2s.biglobe.ne.jp//public_html/common/" local="130654620000000000" remote="131524478400000000" Dst="0" />
+<file name="moorr.js" server="www2s.biglobe.ne.jp//public_html/common/" local="130654620000000000" remote="131524478400000000" Dst="0" />
+<file name="moorr2.js" server="www2s.biglobe.ne.jp//public_html/common/" local="130654620000000000" remote="131524478400000000" Dst="0" />
 </dwsync>

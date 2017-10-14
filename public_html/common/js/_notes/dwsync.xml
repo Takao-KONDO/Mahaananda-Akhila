@@ -17,4 +17,14 @@
 <file name="respond.min.js" server="ftp.naadeszvara.namaste.jp//mahaananda/" local="130775464040000000" remote="130847973000000000" Dst="0" />
 <file name="smoothScroll.js" server="ftp.naadeszvara.namaste.jp//mahaananda/" local="130414344520000000" remote="130847973000000000" Dst="0" />
 <file name="smoothScroll2.js" server="ftp.naadeszvara.namaste.jp//mahaananda/" local="130167312440000000" remote="130847973000000000" Dst="0" />
+<file name="bootstrap.min.js" server="www2s.biglobe.ne.jp//public_html/common/" local="130786812000000000" remote="131524478400000000" Dst="0" />
+<file name="common_bs.js" server="www2s.biglobe.ne.jp//public_html/common/" local="130796316000000000" remote="131524478400000000" Dst="0" />
+<file name="elementsForIE.js" server="www2s.biglobe.ne.jp//public_html/common/" local="130654620000000000" remote="131524478400000000" Dst="0" />
+<file name="html5.js" server="www2s.biglobe.ne.jp//public_html/common/" local="130654620000000000" remote="131524478400000000" Dst="0" />
+<file name="jquery.smoothScroll.js" server="www2s.biglobe.ne.jp//public_html/common/" local="130791996000000000" remote="131524478400000000" Dst="0" />
+<file name="jQueryAutoHeight.js" server="www2s.biglobe.ne.jp//public_html/common/" local="130790268000000000" remote="131524478400000000" Dst="0" />
+<file name="respond.min.js" server="www2s.biglobe.ne.jp//public_html/common/" local="130775464040000000" remote="131524478400000000" Dst="0" />
+<file name="smoothScroll.js" server="www2s.biglobe.ne.jp//public_html/common/" local="130414344520000000" remote="131524478400000000" Dst="0" />
+<file name="smoothScroll2.js" server="www2s.biglobe.ne.jp//public_html/common/" local="130790268000000000" remote="131524478400000000" Dst="0" />
+<file name="smoothScroll.js" server="www2s.biglobe.ne.jp//public_html/" local="130960476000000000" remote="130960476000000000" Dst="0" />
 </dwsync>

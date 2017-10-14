@@ -1,0 +1,401 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* 日本語フォントの指定追加 */
+body{
+    font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", Lucida Sans Unicode, DejaVu Sans, Arial Unicode MS, "Helvetica Neue", Helvetica,Arial ,sans-serif;
+/* 背景色の変更 */
+    background-color: #ff9;
+}
+
+#wrapper {
+    position: relative;
+}
+
+.pageheader {
+    background-color: #fc9;
+}
+
+.torso {
+    background-color: #fff;
+}
+
+.gnav {
+    background-color: #cfc;
+}
+
+.contents {
+    background-color: #fff;
+}
+
+.pagefooter {
+    background-color: #c0c0c0;
+}
+
+/* リンク色の変更 */
+
+a,
+a:link {
+    color:#720;
+}
+a:hover,
+a:active {
+    color:#400;
+}
+a:visited {
+    color:#610;
+}
+/* サイドバー以外はリンク下線の現れ方を逆転 */
+main a:link, main a:visited,
+.pageheader a:link, .pageheader a:visited {
+    text-decoration: underline;
+}
+main a:hover, main a:active,
+.pageheader a:hover, .pageheader a:active {
+    text-decoration: none;
+}
+/* 本文領域における段落のインデントと段落間のツメ */
+.pageunit p {
+    text-indent: 1em;
+    margin-bottom: 0;
+}
+
+/*  ページヘッダー内の文字  */
+
+.pageheader h1, .pageheader h2 {
+    padding: 0 1rem;
+    font-weight: bold;
+}
+.pageheader p {
+    padding: 0 1rem;
+}
+
+
+@media  (min-width:768px) {
+
+.pageheader h1, .pageheader h2 {
+    padding: 0 1.5rem;
+}
+.pageheader p {
+    padding: 0 1.5rem;
+}
+}
+
+@media  (min-width:992px) {
+
+.pageheader h1, .pageheader h2 {
+    padding: 0 2rem;
+}
+.pageheader p {
+    padding: 0 2rem;
+}
+}
+
+/* アフィリエイトの但し書き */
+
+.footer-affil {font-size:1.2rem;margin:1rem 0 1.6rem;padding:.6rem;border: #bbbbbb solid .1rem;}
+
+/*  ページフッター  */
+
+.pagefooter {
+    padding: 1.2rem 2rem 0.4rem;
+}
+.pagefooter p {
+    text-align: center;
+}
+.pagefooter p span {
+    display: block;
+    margin-top: 0.8rem;
+}
+.pagefooter p img {
+    max-width: 100%;
+    height: auto;
+}
+@media  (min-width:768px) {
+.pagefooter p span {
+    display: inline;
+    margin-top: 0rem;
+}
+}
+/*  トップへ戻るボタン  */
+
+#topagetop {
+    background-color: #fc9;
+    background-color: rgba(255, 204, 153, 0.6);
+    color: #963;
+    width: 4.4rem;
+    height: 3rem;
+    position: fixed;
+    bottom: 1.5rem;
+    right: 1.5rem;
+    z-index: 20;
+    cursor: pointer;
+    text-align: center;
+    font-size: 3rem;
+    border-radius: .8rem;
+}
+
+#topagetop:hover {
+    background-color: rgba(255, 204, 153, 0.8);
+}
+
+/*  サイドバー  */
+.gnav {
+
+}
+#toggleBtn {
+    display: block;
+    color:#293;
+    padding: .8rem 0;
+    vertical-align: 0.2rem;
+}
+#toggleBtn .btnLine {
+    cursor: pointer;
+    border: .2rem #293 solid;
+    padding: 1rem .4rem 0;
+    border-radius: .6rem;
+}
+#toggleBtn .glyphicon {
+    font-size: 1rem;
+}
+#toggleBtn .glyphicon:before {
+    font-size: 2.5rem;
+    position:relative;
+    top: 0.2rem;
+}
+#toggleBtn .toggleText {
+    font-size: 2rem;
+    font-weight: bold;
+    vertical-align: 0.2rem;
+}
+#gnavArea {
+    display: none;
+    padding: 1.6rem 1rem;
+}
+#gnavArea.show {
+    display: block;
+}
+#gnavArea #searcher .first {
+    border: #575 solid 2px;
+    width: 95%;
+}
+#gnavArea #searcher .submit{
+    margin-top: 2px;
+}
+#gnavArea #gnavLists {
+    margin-top: 2rem;
+    margin-right: -1em;
+}
+#gnavArea #gnavLists h2 {
+    background-color:#293;
+    color: #dfd;
+    font-weight: bold;
+    margin-right: 2rem;
+    padding: 0.4rem 0.4rem 0.2rem 0.4rem;
+}
+#gnavArea #gnavLists ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+#gnavArea #gnavLists ul li {
+    font-size: 1.6rem;
+    font-weight: bold;
+    line-height: 1.75em;
+    text-indent: -1em;
+    padding: 0.2em 0 0.2em 1em;
+}
+#gnavArea #gnavLists ul li > ul li {
+	text-indent: -2em;
+}
+#gnavArea #gnavLists ul li .tositetop:before {
+    content: '▲ ';
+}
+#gnavArea hr {
+    border-top: #555 dashed 2px;
+    margin-right: 2rem;
+    margin-left: 0;
+}
+#gnavArea .affil-side {
+    background-color: #fff;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+#gnavArea .affil-side iframe {
+    display: block;
+    width: 12rem;
+    margin: 1rem auto;
+}
+
+@media  (max-width:991.9999px) {
+/* モバイルのみで適用されるスタイル */
+.gnav {
+    position: static;
+}
+#gnavArea {
+    width: 24rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #cfc;
+    background-color: rgba(204, 255, 204, 0.8);
+    z-index: 10;
+    padding-left: 2rem;
+}
+#gnavArea .affil-side {
+    margin-right: 1rem;
+}
+}
+
+@media  (min-width:992px) {
+#toggleBtn {
+    display: none;
+}
+.torso {
+    overflow: hidden;
+}
+.gnav {
+    margin-bottom: -3276.7rem;
+    padding-bottom: 3276.7rem;
+}
+#gnavArea {
+    display: block;
+    padding-bottom: 2.4rem;
+}
+
+}
+
+@media  (min-width:1200px) {
+#gnavArea #gnavLists ul li > ul li {
+	text-indent: -1em;
+}
+#gnavArea .affil-side {
+    overflow: hidden;
+}
+#gnavArea .affil-side iframe {
+    display: block;
+    width: 120px;
+    float: left;
+}
+}
+
+/* インラインナビ */
+
+.inavi {background-color:#FF9; border-width:0.2rem 0; border-style:solid; border-color:#aaa; padding:0.4rem 0.8rem; color:#666; margin-top: 2.4rem; margin-bottom:2.4rem;}
+
+/* ページタイトル */
+.pagetitle {
+    font-size: 2.4rem; font-weight:bold;border-left: #888 solid 1em;border-top: #888 solid 0.2rem;border-right: #888 solid 0.2rem;border-bottom: #888 solid 0.2rem;padding: .6rem .6rem .2rem .6rem;
+}
+/* ページ内見出し */
+h2.nrm {font-size: 2.2rem; font-weight: bold; border-left: #888 solid 1em; border-bottom: #888 solid .2rem; padding: .2rem .4rem .2rem .6rem;}
+h3.nrm {font-size: 2rem; font-weight: bold; border-left: #888 solid .5em; padding: .2rem .4rem 0 .6rem;}
+h4.nrm {font-size: 1.8rem; font-weight: bold;}
+h4.nrm:before {content: '● ';font-size: 1.2rem; font-weight: bold;color:#888;vertical-align:.2rem;}
+h5.nrm {font-size: 1.6rem; font-weight: bold;text-indent: .4em;}
+h6.nrm {font-size: 1.4rem; font-weight: bold;text-indent: 1em;}
+
+/* ページ内容の終わり */
+.pageunit {border-bottom: #999 dashed 2px;padding-bottom: 1rem;}
+
+/* 前後のページへ */
+.nextprev {background-color:#FF9; border-width:0.2rem 0; border-style:solid; border-color:#aaa; padding:0.4rem 0.8rem; color:#666; margin-top: 2.4rem; margin-bottom:2.4rem;overflow:hidden;}
+.nextprev .prev, .nextprev .next {display: block;}
+.nextprev .prev {float: left;}
+.nextprev .next {float: right;}
+
+/* 最終更新日 */
+.modified {margin-top: 1rem;color: #999;}
+
+/* 表組み */
+.flex_sa_table {
+  border: #333333 solid 2px;
+}
+.flex_sa_table td, .flex_sa_table th {
+  font-size: 1.4rem;
+  vertical-align: middle;
+}
+.flex_sa_table>table>tbody>tr>td, .flex_sa_table>table>tbody>tr>th {
+	border: #666666 solid 1px;
+}
+
+.flex_sa_table .base {
+  background-color: #FF3333;
+  color: #FFFFFF;
+}
+.flex_sa_table .clstem, p .clstem {
+  background-color: #66FF66;
+}
+.flex_sa_table .clsvar, p .clsvar {
+  background-color: #FFFF77;
+}
+.flex_sa_table .avestem {
+  background-color: #AAFFFF;
+}
+.flex_sa_table .quadr {
+  background-color: #B9F;
+}
+.flex_sa_table .clblank {
+  background-color: #BBBBBB;
+}
+.flex_sa_table .clblank2 {
+  background-color: #DDDDDD;
+}
+.flex_sa_table .black {
+  color: #FFFFFF;
+  background-color: #000000;
+}
+.flex_sa_table .stem {
+  color: #FF0000;
+  font-size: 110%;
+  font-weight: bold;
+}
+
+.tdaliCenter td {
+  text-align: center;
+}
+
+@media  (min-width:768px) {
+.flex_sa_table {
+  border-style: none;
+}
+.flex_sa_table table {
+  border: #333333 solid 2px;
+}
+
+}
+
+
+
+/* 共通部品 */
+
+.pageunit hr {border-top: #999 dashed 2px;margin-bottom: 1rem;}
+
+.mt1em { margin-top: 1em;}
+.mt4 { margin-top: .4rem;}
+.mt8 { margin-top: .8rem;}
+.mt20 { margin-top: 2rem;}
+.mb20, p.mb20 { margin-bottom: 2rem;}
+.ml20 { margin-left: 2rem;}
+.mr20 { margin-right: 2rem;}
+
+.bold { font-weight: bold;}
+
+.navy, .small.navy {color:#000080;}
+
+.notification.bg-info {background-color:#dafdfd;}
+
+.o {text-decoration:overline;}
+.u {text-decoration:underline;}
+
+.f120 {font-size: 1.2rem;}
+.f140 {font-size: 1.4rem;}
+.f160 {font-size: 1.6rem;}
+.f180 {font-size: 1.8rem;}
+
+.maxw660 {max-width: 66rem;}
+.maxw700 {max-width: 70rem;}
+.maxw840 {max-width: 84rem;}
+
+.ind1e, .list-unstyled .ind1e {text-indent: 1em;}
+.ind2e, .list-unstyled .ind2e, .pageunit .ind2e {text-indent: 2em;}
