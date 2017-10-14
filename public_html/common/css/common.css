@@ -1,0 +1,178 @@
+@charset "utf-8";
+/* このファイルは、サイト内の全てのhtmlに読み込まれます。
+　　内容は
+　　(1)ブラウザ効果のクリア
+　　(2)各要素の基本設定
+　　(3)共有部品としてのcssクラス設定
+　　(4)大外のレイアウトとフッタ等の設定
+　　の４つです。 */
+
+/* ＜(1)ブラウザ効果のクリア＞ */
+
+* {margin:0px; padding:0px;}
+body, noscript, div, span, hr, center, br, nobr, h1, h2, h3, h4, h5, h6, p, em, strong, dfn, del, ins, address, blockquote, q, cite, code, var, samp, kbd, abbr, acronym, font, basefont, big, small, b, i, u, s, strike, tt, pre, sup, sub, bdo, ruby, rb, rp, rt, img, map, area, a, dl, dt, dd, ul, ol, li, dir, menu, table, tr, td, th, thead, tbody, tfoot, caption, colgroup, col, form, option, optgroup, fieldset, legend, label, frameset, frame, noframes, iframe, embed, noembed, object, param, applet
+{ border-width:0px; font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", Lucida Sans Unicode, DejaVu Sans, Arial Unicode MS, sans-serif;
+font-weight:normal; text-decoration:none; font-style:normal; color:#000000; line-height:1.2em; 
+ }
+
+table, tr, td, th, thead, tbody, tfoot {border-collapse:collapse; empty-cells:show; }
+
+dl, dt, dd, ul, ol, li {list-style-type:none;}
+
+section, article, aside, hgroup, header, footer, nav, figure {display:block;}
+
+/* ＜(2)各要素の基本設定＞ */
+
+body {background-color:#FF9; font-size:90%;}
+
+a {position:relative;}
+a:link {color:#600; text-decoration:underline;}
+a:hover {color:#600; text-decoration:underline; top:1px;}
+a:active {color:#600; text-decoration:underline; top:1px;}
+a:visited {color:#433; text-decoration:underline;}
+
+a:link span[class="o"], a:link span[class="u"] {color:#600; }
+a:hover span[class="o"], a:hover span[class="u"] {color:#600; }
+a:active span[class="o"], a:active span[class="u"] {color:#600; }
+a:visited span[class="o"], a:visited span[class="u"] {color:#433; }
+
+h1 {font-size:250%; font-weight:bold;}
+h2 {font-size:180%; font-weight:bold;}
+h3 {font-size:140%; font-weight:bold;}
+h4 {font-size:125%; font-weight:bold;}
+h5 {font-size:110%; font-weight:bold;}
+
+h2 a:link {color:#600; text-decoration:underline; font-weight:bold;}
+h2 a:hover {color:#600; text-decoration:underline; top:1px; font-weight:bold;}
+h2 a:active {color:#600; text-decoration:underline; top:1px; font-weight:bold;}
+h2 a:visited {color:#433; text-decoration:underline; font-weight:bold;}
+
+h3 a:link {color:#600; text-decoration:underline; font-weight:bold;}
+h3 a:hover {color:#600; text-decoration:underline; top:1px; font-weight:bold;}
+h3 a:active {color:#600; text-decoration:underline; top:1px; font-weight:bold;}
+h3 a:visited {color:#433; text-decoration:underline; font-weight:bold;}
+
+h3 a:link em {color:#600; text-decoration:underline; font-weight:bold;}
+h3 a:hover em {color:#600; text-decoration:underline; font-weight:bold;}
+h3 a:active em {color:#600; text-decoration:underline; font-weight:bold;}
+h3 a:visited em {color:#433; text-decoration:underline; font-weight:bold;}
+
+h4 a:link {color:#600; text-decoration:underline; font-weight:bold;}
+h4 a:hover {color:#600; text-decoration:underline; top:1px; font-weight:bold;}
+h4 a:active {color:#600; text-decoration:underline; top:1px; font-weight:bold;}
+h4 a:visited {color:#433; text-decoration:underline; font-weight:bold;}
+
+li.hlike {line-height:1.5em;font-size:110%;font-weight:bold;}
+li.hlike a:link { color:#600; text-decoration:underline;font-weight:bold; }
+li.hlike a:hover { color:#600; text-decoration:underline; top:1px;font-weight:bold; }
+li.hlike a:active { color:#600; text-decoration:underline; top:1px;font-weight:bold; }
+li.hlike a:visited { color:#433; text-decoration:underline;font-weight:bold; }
+
+li.hlike li a:link, li.hlike li a:hover ,li.hlike li a:active ,li.hlike li a:visited {font-size:91.5%;}
+
+p {line-height:1.4em; text-indent:1em;}
+span {line-height:1.4em;}
+li {line-height:1.4em;}
+
+hr {border:dashed thin #999;}
+
+/* ＜(3)共有部品としてのcssクラス設定＞ */
+
+.floRight {float:right;}
+.floLeft {float:left;}
+.clear {clear:both;}
+.clearfix:after {content:'.'; display:block; clear:both; font-size:0; height:0px; visibility:hidden;}
+.clearfix {zoom:1}
+
+.aliLeft {text-align:left;}
+.aliRight {text-align:right;}
+.aliCenter {text-align:center;}
+
+.valiTop {vertical-align:top;}
+.valiMiddle {vertical-align:middle;}
+.valiBottom {vertical-align:bottom;}
+.valiTexB {vertical-align:text-bottom;}
+.valiBase {vertical-align:baseline;}
+
+table.valiTop td {vertical-align:top;}
+
+.center {margin-left:auto; margin-right:auto;}
+
+.mt5 {margin-top:5px;} .mt10 {margin-top:10px;} .mt15 {margin-top:15px;} .mt20 {margin-top:20px;}
+.mt25 {margin-top:25px;} .mt30 {margin-top:30px;} .mt40 {margin-top:40px;} .mt50 {margin-top:50px;}
+.mb5 {margin-bottom:5px;} .mb10 {margin-bottom:10px;} .mb15 {margin-bottom:15px;} .mb20 {margin-bottom:20px;}
+.mb25 {margin-bottom:25px;} .mb30 {margin-bottom:30px;} .mb40 {margin-bottom:40px;} .mb50 {margin-bottom:50px;}
+.ml5 {margin-left:5px;} .ml10 {margin-left:10px;} .ml15 {margin-left:15px;} .ml20 {margin-left:20px;}
+.ml25 {margin-left:25px;} .ml30 {margin-left:30px;} .ml40 {margin-left:40px;} .ml50 {margin-left:50px;}
+.mr5 {margin-right:5px;} .mr10 {margin-right:10px;} .mr15 {margin-right:15px;} .mr20 {margin-right:20px;}
+.mr25 {margin-right:25px;} .mr30 {margin-right:30px;} .mr40 {margin-right:40px;} .mr50 {margin-right:50px;}
+
+.pt2 {padding-top:2px;} .pt5 {padding-top:5px;} .pt10 {padding-top:10px;} .pt15 {padding-top:15px;}
+.pb2 {padding-bottom:2px;} .pb5 {padding-bottom:5px;} .pb10 {padding-bottom:10px;} .pb15 {padding-bottom:15px}
+.pl2 {padding-left:2px;} .pl5 {padding-left:5px;} .pl10 {padding-left:10px;} .pl15 {padding-left:15px;} .pl40 {padding-left:40px;}
+.pr2 {padding-right:2px;} .pr5 {padding-right:5px;} .pr10 {padding-right:10px;} .pr15 {padding-right:15px;}
+
+.ind1e {text-indent:1em;} .ind2e {text-indent:2em;} .ind0e {text-indent:0em;}
+.ind3e {text-indent:3em;} .ind5e {text-indent:5em;}
+
+.f250 {font-size:250%;} .f210 {font-size:210%;} .f180 {font-size:180%;}
+.f150 {font-size:150%;} .f125 {font-size:125%;} .f110 {font-size:110%;} .f105 {font-size:105%;}
+.f100 {font-size:100%;} .f95 {font-size:95%;} .f90 {font-size:90%;} .f85 {font-size:85%;}
+.f80 {font-size:80%;} .f75 {font-size:75%;} .f70 {font-size:70%;} .f50 {font-size:50%;}
+
+.bold {font-weight:bold;} .normal {font-weight:normal;}
+.u {text-decoration:underline;} .o {text-decoration:overline;}
+
+.serif {font-family:"ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;}
+
+.white {color:#FFF;} .silver {color:#C0C0C0;} .blue {color:#00F;} .aqua {color:#0FF;}
+.lime {color:#0F0;} .yellow {color:#FF0;} .red {color:#F00;} .fuchsia {color:#F0F;}
+.gray {color:#808080;} .teal {color:#008080;} .black {color:#000;} .navy {color:#000080;}
+.green {color:#008000;} .olive {color:#808000;} .maroon {color:#800000;} .purple {color:#800080;}
+
+.inline {display:inline;} .block {display:block;}
+
+.bquat {padding: 1em 3em 1em 3em;}
+
+/* (4)大外のレイアウトとフッタ等の設定 */
+
+#wrapper {width:960px; margin:0px auto;}
+header {background-color:#FC9; width:920px; padding:20px; position:relative;}
+
+#container {width:960px; display:table; background-image:url(../img/snavi_bg.gif); background-position:left; background-repeat:repeat-y; background-color:#FFF;margin-bottom:0;}
+nav { /* background-color:#CFC; */ width:200px; padding:20px; float:left; background-image:url(../img/snavi_bg.gif); background-position:left; background-repeat:repeat-y; }
+article {background-color:#FFF; width:680px; padding:20px; float:right;}
+article.broad {width:920px; float:none;}
+
+p.footer-affil {font-size:77%;margin-top:10px;padding:6px;border: #bbbbbb solid 1px;}
+footer {background-color:#C0C0C0; clear:both; width:920px; padding:15px 20px; text-align:center;margin-top:0;}
+
+#searcher {margin-bottom:15px;width:200px;}
+#searcher form input.first {background-color:#FFFFFF; border:#666 2px inset; font-size:12px; width:170px; padding:2px;display:block;}
+#searcher form input.submit {padding:5px; float:right; text-decoration:underline; font-size:11px; margin-top:5px; cursor:pointer;}
+
+/*#snavi ul {clear:both;width:200px;}
+#snavi ul ul {clear:none;width:180px;}
+#snavi hr {width:196px;} */
+
+p.inavi {background-color:#FF9; border-width:2px 0px; border-style:solid; border-color:#AAA; padding:5px 0px; color:#666; font-weight:bold;width:680px;}
+.wide_c p.inavi {width:920px;}
+
+p.inavi2 {background-color:#FFF; border-width:1px 0px; border-style:solid; border-color:#999; padding:3px 0px; color:#333; font-weight:bold;width:680px;}
+.wide_c p.inavi2 {width:920px;}
+
+article hr {width:676px;}
+article.broad hr {width:916px;}
+article p,article h2,article h3,article h4 {width:auto;max-width:676px;}
+article.broad p,article.broad h2,article.broad h3,article.broad h4 {width:auto;max-width:916px;}
+
+aside.affil {margin: 6px 0px 24px; border: #bbbbbb solid 1px;}
+aside.affil iframe {float:left; padding: 4px 6px;}
+aside.affil-side {margin: 20px 20px 0px; border: #bbbbbb solid 1px;background-color:#ffffff;width:158px;}
+aside.affil-side iframe {margin:0px auto; padding: 8px 6px;display:block;}
+aside.friend-link {margin: 20px 20px 0px; border: #bbbbbb solid 1px;background-color:#ffffff;width:158px;}
+aside.friend-link h3 {text-align:center;padding:10px 0px;font-size:0.91rem;}
+aside.friend-link ul {}
+aside.friend-link ul li {text-align:center;font-size:0.78rem;display:block;padding:0px 11px 10px;}
+aside.friend-link ul li p {font-weight:bold;text-indent:0em;padding-bottom:2px;}
+aside.friend-link ul li span {display:block;text-align:left;text-indent:1em;font-size:0.78rem;}

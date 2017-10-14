@@ -1,0 +1,9 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><p class="mt15 gray ind0e">
+<script type="text/javascript"><!--
+   var modified = new Date(document.lastModified);
+   var year = modified.getFullYear();
+   var month= modified.getMonth() + 1;
+   var date = modified.getDate();
+   document.write( "（最終更新：" + year + "." + month + "." + date + "）" );
+// --></script>
+</p>

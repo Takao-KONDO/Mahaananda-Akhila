@@ -1,0 +1,673 @@
+Bareword found where operator expected at HTTP/Lite.pm line 4, near ""stylesheet" href"
+	(Missing operator before href?)
+Bareword found where operator expected at HTTP/Lite.pm line 4, near ""http://st.pimg.net/tucs/style.css" type"
+	(Missing operator before type?)
+Bareword found where operator expected at HTTP/Lite.pm line 21, near "<title>HTTP::Lite"
+	(Missing operator before HTTP::Lite?)
+String found where operator expected at HTTP/Lite.pm line 25, near "_gaq.push([""
+  (Might be a runaway multi-line "" string starting on line 22)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 25, near "_gaq.push(["_setCustomVar"
+String found where operator expected at HTTP/Lite.pm line 25, near "_setCustomVar",2,""
+Bareword found where operator expected at HTTP/Lite.pm line 25, near "",2,"Distribution"
+	(Missing operator before Distribution?)
+String found where operator expected at HTTP/Lite.pm line 25, near "Distribution",""
+Bareword found where operator expected at HTTP/Lite.pm line 25, near "","HTTP"
+	(Missing operator before HTTP?)
+String found where operator expected at HTTP/Lite.pm line 26, near "_gaq.push([""
+  (Might be a runaway multi-line "" string starting on line 25)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 26, near "_gaq.push(["_setCustomVar"
+String found where operator expected at HTTP/Lite.pm line 26, near "_setCustomVar",5,""
+Bareword found where operator expected at HTTP/Lite.pm line 26, near "",5,"Release"
+	(Missing operator before Release?)
+String found where operator expected at HTTP/Lite.pm line 26, near "Release",""
+Bareword found where operator expected at HTTP/Lite.pm line 26, near "","HTTP"
+	(Missing operator before HTTP?)
+String found where operator expected at HTTP/Lite.pm line 27, near "_gaq.push([""
+  (Might be a runaway multi-line "" string starting on line 26)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 27, near "_gaq.push(["_setCustomVar"
+String found where operator expected at HTTP/Lite.pm line 27, near "_setCustomVar",3,""
+Bareword found where operator expected at HTTP/Lite.pm line 27, near "",3,"Module"
+	(Missing operator before Module?)
+String found where operator expected at HTTP/Lite.pm line 27, near "Module",""
+Bareword found where operator expected at HTTP/Lite.pm line 27, near "","HTTP::Lite"
+	(Missing operator before HTTP::Lite?)
+String found where operator expected at HTTP/Lite.pm line 28, near "_gaq.push([""
+  (Might be a runaway multi-line "" string starting on line 27)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 28, near "_gaq.push(["_setCustomVar"
+String found where operator expected at HTTP/Lite.pm line 28, near "_setCustomVar",1,""
+Bareword found where operator expected at HTTP/Lite.pm line 28, near "",1,"Author"
+	(Missing operator before Author?)
+String found where operator expected at HTTP/Lite.pm line 28, near "Author",""
+Bareword found where operator expected at HTTP/Lite.pm line 28, near "","ADAMK"
+	(Missing operator before ADAMK?)
+String found where operator expected at HTTP/Lite.pm line 32, near "<body id=""
+  (Might be a runaway multi-line "" string starting on line 28)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 32, near "<body id="cpansearch"
+	(Missing operator before cpansearch?)
+String found where operator expected at HTTP/Lite.pm line 33, near "<center><div class=""
+  (Might be a runaway multi-line "" string starting on line 32)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 33, near "<center><div class="logo"
+	(Missing operator before logo?)
+String found where operator expected at HTTP/Lite.pm line 33, near "logo"><a href=""
+Bareword found where operator expected at HTTP/Lite.pm line 33, near ""><img src="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 33, near "png" alt=""
+Bareword found where operator expected at HTTP/Lite.pm line 33, near "" alt="CPAN"
+	(Missing operator before CPAN?)
+String found where operator expected at HTTP/Lite.pm line 34, near "<div class=""
+  (Might be a runaway multi-line "" string starting on line 33)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 34, near "<div class="menubar"
+	(Missing operator before menubar?)
+String found where operator expected at HTTP/Lite.pm line 35, near "<a href=""
+  (Might be a runaway multi-line "" string starting on line 34)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 38, near "&middot; <a href=""
+  (Might be a runaway multi-line "" string starting on line 37)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 38, near "&middot; <a href="http"
+	(Missing operator before http?)
+Warning: Use of "log" without parentheses is ambiguous at HTTP/Lite.pm line 38.
+String found where operator expected at HTTP/Lite.pm line 40, near "&middot; <a href=""
+  (Might be a runaway multi-line "" string starting on line 39)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 41, near "&middot; <a href=""
+  (Might be a runaway multi-line "" string starting on line 40)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 43, near "<form method=""
+  (Might be a runaway multi-line "" string starting on line 41)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 43, near "<form method="get"
+	(Missing operator before get?)
+String found where operator expected at HTTP/Lite.pm line 43, near "get" action=""
+String found where operator expected at HTTP/Lite.pm line 43, near "search" name=""
+Bareword found where operator expected at HTTP/Lite.pm line 43, near "" name="f"
+	(Missing operator before f?)
+String found where operator expected at HTTP/Lite.pm line 43, near "f" class=""
+Bareword found where operator expected at HTTP/Lite.pm line 43, near "" class="searchbox"
+	(Missing operator before searchbox?)
+String found where operator expected at HTTP/Lite.pm line 44, near "<input type=""
+  (Might be a runaway multi-line "" string starting on line 43)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 44, near "<input type="text"
+	(Missing operator before text?)
+String found where operator expected at HTTP/Lite.pm line 44, near "text" name=""
+Bareword found where operator expected at HTTP/Lite.pm line 44, near "" name="query"
+	(Missing operator before query?)
+String found where operator expected at HTTP/Lite.pm line 44, near "query" value=""
+String found where operator expected at HTTP/Lite.pm line 44, near "" value="" size=""
+	(Missing operator before " size="?)
+Number found where operator expected at HTTP/Lite.pm line 44, near "" size="35"
+	(Missing operator before 35?)
+String found where operator expected at HTTP/Lite.pm line 45, near "<br>in <select name=""
+  (Might be a runaway multi-line "" string starting on line 44)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 45, near "<br>in <select name="mode"
+	(Missing operator before mode?)
+String found where operator expected at HTTP/Lite.pm line 46, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 45)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 46, near "<option value="all"
+	(Missing operator before all?)
+String found where operator expected at HTTP/Lite.pm line 47, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 46)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 47, near "<option value="module"
+	(Missing operator before module?)
+String found where operator expected at HTTP/Lite.pm line 48, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 47)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 48, near "<option value="dist"
+	(Missing operator before dist?)
+String found where operator expected at HTTP/Lite.pm line 49, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 48)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 49, near "<option value="author"
+	(Missing operator before author?)
+String found where operator expected at HTTP/Lite.pm line 50, near "</select>&nbsp;<input type=""
+  (Might be a runaway multi-line "" string starting on line 49)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 50, near "</select>&nbsp;<input type="submit"
+	(Missing operator before submit?)
+String found where operator expected at HTTP/Lite.pm line 50, near "submit" value=""
+Bareword found where operator expected at HTTP/Lite.pm line 50, near "" value="CPAN"
+	(Missing operator before CPAN?)
+Bareword found where operator expected at HTTP/Lite.pm line 54, near "<a name="_top"
+  (Might be a runaway multi-line "" string starting on line 50)
+	(Missing operator before _top?)
+String found where operator expected at HTTP/Lite.pm line 56, near "<div id=permalink class=""
+  (Might be a runaway multi-line "" string starting on line 54)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 56, near "<div id=permalink class="noprint"
+	(Missing operator before noprint?)
+String found where operator expected at HTTP/Lite.pm line 56, near "noprint"><a href=""
+Bareword found where operator expected at HTTP/Lite.pm line 56, near "3A"
+	(Missing operator before A?)
+Bareword found where operator expected at HTTP/Lite.pm line 56, near "3ALite"
+	(Missing operator before ALite?)
+String found where operator expected at HTTP/Lite.pm line 57, near "<a href=""
+  (Might be a runaway multi-line "" string starting on line 56)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 62, near "<div class="noprint"
+  (Might be a runaway multi-line "" string starting on line 58)
+	(Missing operator before noprint?)
+String found where operator expected at HTTP/Lite.pm line 62, near "noprint" style=""
+Bareword found where operator expected at HTTP/Lite.pm line 62, near "" style="float"
+	(Missing operator before float?)
+Bareword found where operator expected at HTTP/Lite.pm line 62, near "19ex"
+	(Missing operator before ex?)
+String found where operator expected at HTTP/Lite.pm line 63, near "<a href=""
+  (Might be a runaway multi-line "" string starting on line 62)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 63, near "<a href="http"
+	(Missing operator before http?)
+Bareword found where operator expected at HTTP/Lite.pm line 63, near ""><img src="http"
+	(Missing operator before http?)
+Bareword found where operator expected at HTTP/Lite.pm line 63, near "884124d0169f41668fb3f948b2ba8b0a"
+	(Missing operator before d0169f41668fb3f948b2ba8b0a?)
+Bareword found where operator expected at HTTP/Lite.pm line 63, near "80 height"
+	(Missing operator before height?)
+Semicolon seems to be missing at HTTP/Lite.pm line 63.
+Operator or semicolon missing before &nbsp at HTTP/Lite.pm line 77.
+Ambiguous use of & resolved as operator & at HTTP/Lite.pm line 77.
+Operator or semicolon missing before &nbsp at HTTP/Lite.pm line 78.
+Ambiguous use of & resolved as operator & at HTTP/Lite.pm line 78.
+Operator or semicolon missing before &nbsp at HTTP/Lite.pm line 86.
+Ambiguous use of & resolved as operator & at HTTP/Lite.pm line 86.
+String found where operator expected at HTTP/Lite.pm line 91, near "<a name=""
+  (Might be a runaway multi-line "" string starting on line 89)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 91, near "<a name="___top"
+	(Missing operator before ___top?)
+String found where operator expected at HTTP/Lite.pm line 112, near "name=""
+  (Might be a runaway multi-line "" string starting on line 91)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 112, near "name="NAME"
+String found where operator expected at HTTP/Lite.pm line 118, near "name=""
+  (Might be a runaway multi-line "" string starting on line 112)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 118, near "name="SYNOPSIS"
+String found where operator expected at HTTP/Lite.pm line 121, near "<pre class=""
+  (Might be a runaway multi-line "" string starting on line 118)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 121, near "<pre class="sh_perl"
+	(Missing operator before sh_perl?)
+String found where operator expected at HTTP/Lite.pm line 123, near "$req = $http-&#62;request(&#34;<a href=""
+  (Might be a runaway multi-line "" string starting on line 121)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 123, near "" class="podlinkurl"
+	(Missing operator before podlinkurl?)
+String found where operator expected at HTTP/Lite.pm line 129, near "name=""
+  (Might be a runaway multi-line "" string starting on line 123)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 132, near "<pre class=""
+  (Might be a runaway multi-line "" string starting on line 129)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 132, near "<pre class="sh_perl"
+	(Missing operator before sh_perl?)
+String found where operator expected at HTTP/Lite.pm line 159, near "name=""
+  (Might be a runaway multi-line "" string starting on line 132)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 159, near "name="CONSTRUCTOR"
+String found where operator expected at HTTP/Lite.pm line 163, near "<dt><a name=""
+  (Might be a runaway multi-line "" string starting on line 159)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 163, near "<dt><a name="new"
+	(Missing operator before new?)
+String found where operator expected at HTTP/Lite.pm line 172, near "name=""
+  (Might be a runaway multi-line "" string starting on line 163)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 172, near "name="METHODS"
+String found where operator expected at HTTP/Lite.pm line 176, near "<dt><a name='request'></a><a name=""
+  (Might be a runaway multi-line "" string starting on line 172)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 176, near "<dt><a name='request'></a><a name="request_"
+	(Missing operator before request_?)
+String found where operator expected at HTTP/Lite.pm line 184, near "<p>See <em><a href=""
+  (Might be a runaway multi-line "" string starting on line 176)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 184, near "html" class=""
+Bareword found where operator expected at HTTP/Lite.pm line 184, near "" class="podlinkurl"
+	(Missing operator before podlinkurl?)
+String found where operator expected at HTTP/Lite.pm line 195, near "<pre class=""
+  (Might be a runaway multi-line "" string starting on line 184)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 207, near "<dt><a name='set_callback'></a><a name=""
+  (Might be a runaway multi-line "" string starting on line 195)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 217, near "<pre class=""
+  (Might be a runaway multi-line "" string starting on line 207)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 238, near "<dt><a name='prepare_post'></a><a name=""
+  (Might be a runaway multi-line "" string starting on line 217)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 244, near "<dt><a name='http11_mode'></a><a name=""
+  (Might be a runaway multi-line "" string starting on line 238)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 250, near "<dt><a name='add_req_header'></a><a name=""
+  (Might be a runaway multi-line "" string starting on line 244)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 250, near "<dt><a name='add_req_header'></a><a name="add_req_header_"
+	(Missing operator before add_req_header_?)
+String found where operator expected at HTTP/Lite.pm line 254, near "<dt><a name='get_req_header'></a><a name=""
+  (Might be a runaway multi-line "" string starting on line 250)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 258, near "<dt><a name='delete_req_header'></a><a name=""
+  (Might be a runaway multi-line "" string starting on line 254)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 266, near "<pre class=""
+  (Might be a runaway multi-line "" string starting on line 258)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 274, near "<dt><a name=""
+  (Might be a runaway multi-line "" string starting on line 266)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 280, near "<dt><a name=""
+  (Might be a runaway multi-line "" string starting on line 274)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 280, near "<dt><a name="headers_array"
+	(Missing operator before headers_array?)
+String found where operator expected at HTTP/Lite.pm line 286, near "<dt><a name=""
+  (Might be a runaway multi-line "" string starting on line 280)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 286, near "<dt><a name="headers_string"
+	(Missing operator before headers_string?)
+String found where operator expected at HTTP/Lite.pm line 292, near "<dt><a name='get_header'></a><a name=""
+  (Might be a runaway multi-line "" string starting on line 286)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 292, near "<dt><a name='get_header'></a><a name="get_header_"
+	(Missing operator before get_header_?)
+String found where operator expected at HTTP/Lite.pm line 300, near "<dt><a name=""
+  (Might be a runaway multi-line "" string starting on line 292)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 306, near "<dt><a name='proxy'></a><a name=""
+  (Might be a runaway multi-line "" string starting on line 300)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 306, near "<dt><a name='proxy'></a><a name="proxy_"
+	(Missing operator before proxy_?)
+String found where operator expected at HTTP/Lite.pm line 312, near "<dt><a name=""
+  (Might be a runaway multi-line "" string starting on line 306)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 318, near "<dt><a name=""
+  (Might be a runaway multi-line "" string starting on line 312)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 318, near "<dt><a name="status_message"
+	(Missing operator before status_message?)
+String found where operator expected at HTTP/Lite.pm line 324, near "<dt><a name=""
+  (Might be a runaway multi-line "" string starting on line 318)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 330, near "<dt><a name='local_addr'></a><a name="local_addr_"
+  (Might be a runaway multi-line "" string starting on line 324)
+	(Missing operator before local_addr_?)
+String found where operator expected at HTTP/Lite.pm line 336, near "<dt><a name='local_port'></a><a name=""
+  (Might be a runaway multi-line "" string starting on line 330)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 342, near "<dt><a name='method'></a><a name=""
+  (Might be a runaway multi-line "" string starting on line 336)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 351, near "name=""
+  (Might be a runaway multi-line "" string starting on line 342)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 354, near "<pre class=""
+  (Might be a runaway multi-line "" string starting on line 351)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 354, near "<pre class="sh_perl"
+	(Missing operator before sh_perl?)
+String found where operator expected at HTTP/Lite.pm line 357, near "$req = $http-&#62;request(&#34;<a href=""
+  (Might be a runaway multi-line "" string starting on line 354)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 357, near "" class="podlinkurl"
+	(Missing operator before podlinkurl?)
+String found where operator expected at HTTP/Lite.pm line 381, near "$req = $http-&#62;request(&#34;<a href=""
+  (Might be a runaway multi-line "" string starting on line 357)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 381, near "xp" class=""
+Bareword found where operator expected at HTTP/Lite.pm line 381, near "" class="podlinkurl"
+	(Missing operator before podlinkurl?)
+String found where operator expected at HTTP/Lite.pm line 388, near "name=""
+  (Might be a runaway multi-line "" string starting on line 381)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 391, near "<pre class=""
+  (Might be a runaway multi-line "" string starting on line 388)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 391, near "<pre class="sh_perl"
+	(Missing operator before sh_perl?)
+String found where operator expected at HTTP/Lite.pm line 400, near "name=""
+  (Might be a runaway multi-line "" string starting on line 391)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 400, near "name="BUGS"
+String found where operator expected at HTTP/Lite.pm line 403, near "<pre class=""
+  (Might be a runaway multi-line "" string starting on line 400)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 403, near "<pre class="sh_perl"
+	(Missing operator before sh_perl?)
+String found where operator expected at HTTP/Lite.pm line 408, near "name=""
+  (Might be a runaway multi-line "" string starting on line 403)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 408, near "name="AUTHOR"
+String found where operator expected at HTTP/Lite.pm line 414, near "name=""
+  (Might be a runaway multi-line "" string starting on line 408)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 417, near "<p><a href=""
+  (Might be a runaway multi-line "" string starting on line 414)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 417, near "LWP" class=""
+Bareword found where operator expected at HTTP/Lite.pm line 417, near "" class="podlinkpod"
+	(Missing operator before podlinkpod?)
+String found where operator expected at HTTP/Lite.pm line 418, near ">LWP</a> RFC 2068 - HTTP/1.1 -<a href=""
+  (Might be a runaway multi-line "" string starting on line 417)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 418, near ">LWP</a> RFC 2068 - HTTP/1.1 -<a href="http"
+	(Missing operator before http?)
+Bareword found where operator expected at HTTP/Lite.pm line 418, near "" class="podlinkurl"
+	(Missing operator before podlinkurl?)
+String found where operator expected at HTTP/Lite.pm line 422, near "name=""
+  (Might be a runaway multi-line "" string starting on line 418)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 422, near "name="COPYRIGHT"
+String found where operator expected at HTTP/Lite.pm line 432, near "<!-- This should probably be put in the <div class=""
+  (Might be a runaway multi-line "" string starting on line 422)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 432, near "<!-- This should probably be put in the <div class="footer"
+	(Missing operator before footer?)
+Bareword found where operator expected at HTTP/Lite.pm line 433, near "<script type="text"
+  (Might be a runaway multi-line "" string starting on line 432)
+	(Missing operator before text?)
+String found where operator expected at HTTP/Lite.pm line 437, near "$(""
+  (Might be a runaway multi-line "" string starting on line 433)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 439, near "$("#styleswitch""
+	(Missing operator before "#styleswitch"?)
+Bareword found where operator expected at HTTP/Lite.pm line 439, near "$.browser"
+	(Missing operator before browser?)
+Bareword found where operator expected at HTTP/Lite.pm line 440, near "$.fn"
+	(Missing operator before fn?)
+Bareword found where operator expected at HTTP/Lite.pm line 440, near "$(this"
+	(Missing operator before this?)
+String found where operator expected at HTTP/Lite.pm line 449, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 448)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 449, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 450, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 449)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 450, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 451, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 450)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 451, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 452, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 451)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 452, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 453, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 452)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 453, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 454, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 453)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 454, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 455, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 454)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 455, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 456, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 455)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 456, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 457, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 456)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 457, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 458, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 457)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 458, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 459, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 458)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 459, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 460, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 459)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 460, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 461, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 460)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 461, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 462, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 461)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 462, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 463, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 462)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 463, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 464, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 463)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 464, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 465, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 464)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 465, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 466, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 465)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 466, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 467, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 466)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 467, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 468, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 467)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 468, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 469, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 468)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 469, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 470, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 469)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 470, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 471, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 470)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 471, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 472, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 471)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 472, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 473, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 472)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 473, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 474, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 473)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 474, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 475, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 474)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 475, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 476, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 475)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 476, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 477, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 476)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 477, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 478, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 477)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 478, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 479, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 478)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 479, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 480, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 479)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 480, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 481, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 480)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 481, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 482, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 481)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 482, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 483, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 482)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 483, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 484, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 483)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 484, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 485, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 484)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 485, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 486, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 485)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 486, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 487, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 486)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 487, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 488, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 487)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 488, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 489, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 488)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 489, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 490, near "<option value=""
+  (Might be a runaway multi-line "" string starting on line 489)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 490, near "<option value="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 496, near "<div class=""
+  (Might be a runaway multi-line "" string starting on line 490)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 496, near "<div class="footer"
+	(Missing operator before footer?)
+Bareword found where operator expected at HTTP/Lite.pm line 496, near ""><div class="cpanstats"
+	(Missing operator before cpanstats?)
+String found where operator expected at HTTP/Lite.pm line 499, near "hosted by <a href=""
+  (Might be a runaway multi-line "" string starting on line 496)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 499, near "hosted by <a href="http"
+	(Do you need to predeclare hosted?)
+String found where operator expected at HTTP/Lite.pm line 500, near "<a href=""
+  (Might be a runaway multi-line "" string starting on line 499)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 500, near "<a href="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 500, near "com"><img alt=""
+Warning: Use of "write" without parentheses is ambiguous at HTTP/Lite.pm line 500.
+Bareword found where operator expected at HTTP/Lite.pm line 500, near "" src="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 502, near "<script type=""
+  (Might be a runaway multi-line "" string starting on line 500)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 502, near "<script type="text"
+	(Missing operator before text?)
+String found where operator expected at HTTP/Lite.pm line 503, near "var gaJsHost = ((""
+  (Might be a runaway multi-line "" string starting on line 502)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 503, near "var gaJsHost = (("https"
+	(Do you need to predeclare var?)
+Bareword found where operator expected at HTTP/Lite.pm line 503, near "" == document.location.protocol) ? "https"
+	(Missing operator before https?)
+Bareword found where operator expected at HTTP/Lite.pm line 503, near "" : "http"
+	(Missing operator before http?)
+Bareword found where operator expected at HTTP/Lite.pm line 504, near "3Cscript"
+  (Might be a runaway multi-line "" string starting on line 503)
+	(Missing operator before Cscript?)
+Bareword found where operator expected at HTTP/Lite.pm line 504, near "'" + gaJsHost + "google-analytics.com/ga.js' type"
+	(Missing operator before type?)
+Bareword found where operator expected at HTTP/Lite.pm line 504, near "3E"
+	(Missing operator before E?)
+Bareword found where operator expected at HTTP/Lite.pm line 504, near "3C"
+	(Missing operator before C?)
+Bareword found where operator expected at HTTP/Lite.pm line 504, near "3E"
+	(Missing operator before E?)
+String found where operator expected at HTTP/Lite.pm line 506, near "<script type=""
+  (Might be a runaway multi-line "" string starting on line 504)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 506, near "<script type="text"
+	(Missing operator before text?)
+String found where operator expected at HTTP/Lite.pm line 506, near "javascript" src=""
+Bareword found where operator expected at HTTP/Lite.pm line 506, near "" src="http"
+	(Missing operator before http?)
+String found where operator expected at HTTP/Lite.pm line 508, near "<script type=""
+  (Might be a runaway multi-line "" string starting on line 506)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 508, near "<script type="text"
+	(Missing operator before text?)
+String found where operator expected at HTTP/Lite.pm line 517, near "<script type=""
+  (Might be a runaway multi-line "" string starting on line 508)
+	(Missing semicolon on previous line?)
+Bareword found where operator expected at HTTP/Lite.pm line 517, near "<script type="text"
+	(Missing operator before text?)
+String found where operator expected at HTTP/Lite.pm line 519, near "$(""
+  (Might be a runaway multi-line "" string starting on line 517)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 524, near "$(""
+  (Might be a runaway multi-line "" string starting on line 519)
+	(Missing semicolon on previous line?)
+String found where operator expected at HTTP/Lite.pm line 524, at end of line
+	(Missing semicolon on previous line?)

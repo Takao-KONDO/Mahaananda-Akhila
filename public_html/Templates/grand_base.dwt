@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="author" content="近藤貴夫">
+<meta name="keywords" content="Sanskrit,サンスクリット,語学,音度名,移動サ,インド学,音楽,合唱,ドレミ,インド古典音楽,階名,サリガマ">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>大歓喜｜●●●</title>
+<!-- TemplateEndEditable -->
+<link href="../common/css/common.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+<script src="http://www.mahaananda.jp/common/js/html5.js"></script>
+<![endif]-->
+<link rel="shortcut icon" href="../common/ico/favicon.ico">
+<script src="../common/js/smoothScroll2.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20895049-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="wrapper">
+  <!-- TemplateBeginEditable name="container" -->
+  <header></header>
+
+  <div></div>
+  <!-- TemplateEndEditable --><!-- #BeginLibraryItem "/Library/footer.lbi" --><footer>
+    <p><a href="../index.html"><img src="../common/img/daikankis.jpg" width="142" height="32" alt="大歓喜" class="valiMiddle" /></a><span>&emsp;Copyright&nbsp;&copy;&nbsp;1997-2016&nbsp;Takao&nbsp;KONDO.&nbsp;All&nbsp;rights&nbsp;reserved.</span></p>
+  </footer><!-- #EndLibraryItem --></div>
+
+<script type="text/javascript">
+  (function () {
+    var tagjs = document.createElement("script");
+    var s = document.getElementsByTagName("script")[0];
+    tagjs.async = true;
+    tagjs.src = "//s.yjtag.jp/tag.js#site=3Zqwba8";
+    s.parentNode.insertBefore(tagjs, s);
+  }());
+</script>
+<noscript>
+  <iframe src="//b.yjtag.jp/iframe?c=3Zqwba8" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</noscript>
+</body>
+</html>
