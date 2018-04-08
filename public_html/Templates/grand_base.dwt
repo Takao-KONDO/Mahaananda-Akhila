@@ -9,7 +9,7 @@
 <!-- TemplateEndEditable -->
 <link href="../common/css/common.css" rel="stylesheet" type="text/css">
 <!--[if lt IE 9]>
-<script src="http://www.mahaananda.jp/common/js/html5.js"></script>
+<script src="https://www.mahaananda.jp/common/js/html5.js"></script>
 <![endif]-->
 <link rel="shortcut icon" href="../common/ico/favicon.ico">
 <script src="../common/js/smoothScroll2.js"></script>
