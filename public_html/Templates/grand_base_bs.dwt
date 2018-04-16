@@ -44,10 +44,10 @@
     </header>
     <div class="torso row">
         <nav class="gnav col-md-3">
-            <div id="toggleBtn"><span class="btnLine"><span class="glyphicon glyphicon-menu-hamburger">&nbsp;</span><span class="toggleText">目次</span></span></div>
+            <div id="toggleBtn"><span class="btnLine"><span class="glyphicon glyphicon-menu-hamburger">&nbsp;</span><span class="glyphicon glyphicon-remove">&nbsp;</span><span class="toggleText">目次</span></span></div>
             <div id="gnavArea">
                 <div id="searcher" class="clearfix">
-                    <form method="get" action="http://www.google.co.jp/search">
+                    <form method="get" action="https://www.google.co.jp/search">
                         <input type="text" name="q" size="14" maxlength="255" value="" class="first" />
                         <input type="hidden" name="ie" value="UTF-8" />
                         <input type="hidden" name="oe" value="UTF-8" />

@@ -141,7 +141,7 @@ main a:hover, main a:active,
 
 /*  サイドバー  */
 .gnav {
-
+	
 }
 #toggleBtn {
     display: block;
@@ -162,6 +162,9 @@ main a:hover, main a:active,
     font-size: 2.5rem;
     position:relative;
     top: 0.2rem;
+}
+#toggleBtn .glyphicon.glyphicon-remove {
+	display: none;
 }
 #toggleBtn .toggleText {
     font-size: 2rem;
@@ -226,17 +229,29 @@ main a:hover, main a:active,
     width: 12rem;
     margin: 1rem auto;
 }
-
 @media  (max-width:991.9999px) {
 /* モバイルのみで適用されるスタイル */
 .gnav {
-    position: static;
+    position: relative;
+	background-color: transparent;
+}
+#toggleBtn {
+	background-color: #cfc;
+    background-color: rgba(204, 255, 204, 0.8);
+	padding-left: 1.6rem; padding-right: 1.6rem;
+	margin-left: -1.6rem; margin-right: -1.6rem;
+}
+#toggleBtn .glyphicon.glyphicon-menu-hamburger.hide {
+	display: hidden;
+}
+#toggleBtn .glyphicon.glyphicon-remove.feed {
+	display: inline;
 }
 #gnavArea {
     width: 24rem;
     position: absolute;
-    top: 0;
-    left: 0;
+    top: 4.6rem;
+    left: 1rem;
     background-color: #cfc;
     background-color: rgba(204, 255, 204, 0.8);
     z-index: 10;
