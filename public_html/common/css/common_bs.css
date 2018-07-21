@@ -6,6 +6,8 @@ body{
     font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", Lucida Sans Unicode, DejaVu Sans, Arial Unicode MS, "Helvetica Neue", Helvetica,Arial ,sans-serif;
 /* 背景色の変更 */
     background-color: #ff9;
+	/* 基準ポイント数の変更 */
+	font-size: 14px;
 }
 
 #wrapper {
@@ -412,5 +414,7 @@ h6.nrm {font-size: 1.4rem; font-weight: bold;text-indent: 1em;}
 .maxw700 {max-width: 70rem;}
 .maxw840 {max-width: 84rem;}
 
+.list-unstyled {list-style: none;}
 .ind1e, .list-unstyled .ind1e {text-indent: 1em;}
 .ind2e, .list-unstyled .ind2e, .pageunit .ind2e {text-indent: 2em;}
+ 
