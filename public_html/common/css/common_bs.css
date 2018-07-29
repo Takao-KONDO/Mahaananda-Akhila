@@ -372,11 +372,34 @@ h6.nrm {font-size: 1.4rem; font-weight: bold;text-indent: 1em;}
   text-align: center;
 }
 
+.flex_sa_table .table-tight th {
+	font-size: 92.857%;
+	padding: 2px;
+}
+.flex_sa_table .table-tight td {
+	font-size: 92.307%;
+	padding: 2px;
+}
+
 @media  (min-width:768px) {
-.flex_sa_table {
+.flex_sa_table:not(.maxwmost) {
   border-style: none;
 }
-.flex_sa_table table {
+.flex_sa_table:not(.maxwmost) table {
+  border: #333333 solid 2px;
+}
+
+	.flex_sa_table.maxwmost table {
+		margin-bottom: 0;
+	}
+	
+}
+
+@media  (min-width:992px) {
+.flex_sa_table.maxwmost {
+  border-style: none;
+}
+.flex_sa_table.maxwmost table {
   border: #333333 solid 2px;
 }
 
@@ -400,6 +423,8 @@ h6.nrm {font-size: 1.4rem; font-weight: bold;text-indent: 1em;}
 
 .navy, .small.navy {color:#000080;}
 
+.note {font-size: 92.307%;}/* 小さな注意書き */
+
 .notification.bg-info {background-color:#dafdfd;}
 
 .o {text-decoration:overline;}
@@ -413,6 +438,7 @@ h6.nrm {font-size: 1.4rem; font-weight: bold;text-indent: 1em;}
 .maxw660 {max-width: 66rem;}
 .maxw700 {max-width: 70rem;}
 .maxw840 {max-width: 84rem;}
+.maxw980 {max-width: 98rem;}
 
 .list-unstyled {list-style: none;}
 .ind1e, .list-unstyled .ind1e {text-indent: 1em;}
