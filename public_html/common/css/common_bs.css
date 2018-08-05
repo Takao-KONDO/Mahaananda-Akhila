@@ -380,7 +380,16 @@ h6.nrm {font-size: 1.4rem; font-weight: bold;text-indent: 1em;}
 	font-size: 92.307%;
 	padding: 2px;
 }
+.flex_sa_table.maxwmost table {
+	min-width: 940px;
+}
 
+@media  (max-width:767px) {
+	.flex_sa_table.table-responsive > .table-bordered > tbody > tr > th:first-child,
+	.flex_sa_table.table-responsive > .table-bordered > tbody > tr > td:first-child {
+		border-left: #666666 solid 1px;
+	}
+}
 @media  (min-width:768px) {
 .flex_sa_table:not(.maxwmost) {
   border-style: none;
@@ -389,9 +398,9 @@ h6.nrm {font-size: 1.4rem; font-weight: bold;text-indent: 1em;}
   border: #333333 solid 2px;
 }
 
-	.flex_sa_table.maxwmost table {
-		margin-bottom: 0;
-	}
+.flex_sa_table.maxwmost table {
+	margin-bottom: 0;
+}
 	
 }
 
@@ -410,6 +419,13 @@ h6.nrm {font-size: 1.4rem; font-weight: bold;text-indent: 1em;}
 /* 共通部品 */
 
 .pageunit hr {border-top: #999 dashed 2px;margin-bottom: 1rem;}
+
+.plain-container {
+	overflow: hidden;
+}
+.container.plain-container {
+	padding-left: 0;
+}
 
 .mt1em { margin-top: 1em;}
 .mt4 { margin-top: .4rem;}
@@ -435,12 +451,26 @@ h6.nrm {font-size: 1.4rem; font-weight: bold;text-indent: 1em;}
 .f160 {font-size: 1.6rem;}
 .f180 {font-size: 1.8rem;}
 
+.list-unstyled {list-style: none;}
+.ind1e, .list-unstyled .ind1e {text-indent: 1em;}
+.ind2e, .list-unstyled .ind2e, .pageunit .ind2e {text-indent: 2em;}
+
+.floLeft {float: left;}
+
+.clear {clear: both;}
+
+.wid500 {width: 50rem; max-width: 100%;}
+.maxw500 {max-width: 50rem;}
 .maxw660 {max-width: 66rem;}
 .maxw700 {max-width: 70rem;}
 .maxw840 {max-width: 84rem;}
 .maxw980 {max-width: 98rem;}
 
-.list-unstyled {list-style: none;}
-.ind1e, .list-unstyled .ind1e {text-indent: 1em;}
-.ind2e, .list-unstyled .ind2e, .pageunit .ind2e {text-indent: 2em;}
+/* 表示幅対応 */
+
+@media  (min-width:992px) {
+	.ifnot-maxwmost {
+		display: none;
+	}
+}
  
