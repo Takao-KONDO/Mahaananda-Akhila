@@ -1,0 +1,42 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;700&display=swap');
+/* CSS Document */
+
+body {
+	font-family: "Noto Serif JP", "ＭＳ Ｐ明朝", "MS PMincho","ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+}
+section > h2:first-of-type {
+	margin-bottom: 1em;
+}
+section > h3:first-of-type {
+	margin-bottom: 1em;
+}
+section > h4:first-of-type {
+	margin-bottom: 0.75em;
+}
+or_portrate {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+.author_portrate img {
+	margin-bottom: 0;
+}
+.ref_block {
+	border: #ccc 1px solid;
+	border-radius: 1.5vw;
+	padding: 1vw 1.5vw;
+}
+.ref_block .ref_block__inner {
+	padding-left: 2.25vw;
+}
+.page_footer {
+	margin-top: 2vw;
+	border-top: #ccc solid 1px;
+	padding-top: 2vw;
+}
+.ali_center {
+	text-align: center;
+}
+.ali_right {
+	text-align: right;
+}

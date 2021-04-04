@@ -1,0 +1,6 @@
+# authenticate(Basic)
+AuthUserFile /home/users/2/namaste.jp-mahaananda/web/mahaananda/others/ainaki/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Please enter your username and password"
+AuthType Basic
+require valid-user
