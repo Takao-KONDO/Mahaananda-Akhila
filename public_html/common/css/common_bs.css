@@ -347,7 +347,7 @@ h6.nrm {font-size: 1.4rem; font-weight: bold;text-indent: 1em;}
 .flex_sa_table .clsvar, p .clsvar {
   background-color: #FFFF77;
 }
-.flex_sa_table .avestem {
+.flex_sa_table .avestem, p .avestem {
   background-color: #AAFFFF;
 }
 .flex_sa_table .quadr {
@@ -363,7 +363,7 @@ h6.nrm {font-size: 1.4rem; font-weight: bold;text-indent: 1em;}
   color: #FFFFFF;
   background-color: #000000;
 }
-.flex_sa_table .stem {
+.flex_sa_table .stem, p .stem {
   color: #FF0000;
   font-size: 110%;
   font-weight: bold;
