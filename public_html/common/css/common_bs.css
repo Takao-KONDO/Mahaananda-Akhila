@@ -359,6 +359,10 @@ h6.nrm {font-size: 1.4rem; font-weight: bold;text-indent: 1em;}
 .flex_sa_table .clblank2 {
   background-color: #DDDDDD;
 }
+.flex_sa_table .aug, p .aug {
+  color: #777777;
+  background-color: #EEEEEE;
+}
 .flex_sa_table .black {
   color: #FFFFFF;
   background-color: #000000;
